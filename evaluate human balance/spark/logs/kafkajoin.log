@@ -1,0 +1,64 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------+-----+-----+---------+
+|customer|score|email|birthYear|
++--------+-----+-----+---------+
++--------+-----+-----+---------+
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------+-----+-----+---------+
+|customer|score|email|birthYear|
++--------+-----+-----+---------+
++--------+-----+-----+---------+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Santosh.Phillips@...| 13.0|Santosh.Phillips@...|     1937|
+|Senthil.Spencer@t...| -4.5|Senthil.Spencer@t...|     1939|
+|Danny.Staples@tes...| -5.0|Danny.Staples@tes...|     1952|
+|Danny.Staples@tes...| -4.0|Danny.Staples@tes...|     1952|
+|Christina.Anandh@...|  6.0|Christina.Anandh@...|     1941|
+|Lyn.Gonzalez@test...|-13.5|Lyn.Gonzalez@test...|     1945|
+|Chris.Lincoln@tes...| 16.0|Chris.Lincoln@tes...|     1963|
+|Chris.Lincoln@tes...| -5.5|Chris.Lincoln@tes...|     1963|
+|Jacob.Gonzalez@te...| -3.0|Jacob.Gonzalez@te...|     1960|
+|David.Aristotle@t...| -4.0|David.Aristotle@t...|     1951|
+|Jacob.Gonzalez@te...| -4.0|Jacob.Gonzalez@te...|     1960|
+|David.Aristotle@t...| -3.5|David.Aristotle@t...|     1951|
+|Ashley.Clayton@te...| -1.0|Ashley.Clayton@te...|     1956|
+|Ashley.Clayton@te...| -2.0|Ashley.Clayton@te...|     1956|
+|Jane.Habschied@te...| -5.0|Jane.Habschied@te...|     1957|
+|Jane.Habschied@te...| -5.0|Jane.Habschied@te...|     1957|
+|Trevor.Clark@test...|  8.0|Trevor.Clark@test...|     1948|
+|Senthil.Hansen@te...| -9.0|Senthil.Hansen@te...|     1938|
+| Eric.Abram@test.com| -4.5| Eric.Abram@test.com|     1955|
+| Eric.Abram@test.com| -4.0| Eric.Abram@test.com|     1955|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Santosh.Phillips@...|-27.5|Santosh.Phillips@...|     1937|
+|Senthil.Spencer@t...|  5.5|Senthil.Spencer@t...|     1939|
+|Christina.Anandh@...| -3.0|Christina.Anandh@...|     1941|
+|Lyn.Gonzalez@test...| -2.0|Lyn.Gonzalez@test...|     1945|
+|Trevor.Clark@test...|-10.0|Trevor.Clark@test...|     1948|
+|Senthil.Hansen@te...|  8.0|Senthil.Hansen@te...|     1938|
+|Neeraj.Clark@test...| -7.5|Neeraj.Clark@test...|     1940|
+| Gail.Doshi@test.com|-25.0| Gail.Doshi@test.com|     1949|
+|Gail.Anderson@tes...|  4.5|Gail.Anderson@tes...|     1944|
+|Frank.Abram@test.com| 14.0|Frank.Abram@test.com|     1946|
+|Eric.Fibonnaci@te...|  2.0|Eric.Fibonnaci@te...|     1943|
++--------------------+-----+--------------------+---------+
+

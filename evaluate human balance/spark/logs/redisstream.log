@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|      Bob@mailme.com|     1967|
+|  Travis.Wu@test.com|     1965|
+|John.Harris@test.com|     1963|
+|Senthil.Abram@tes...|     1961|
+|Bobby.Abram@test.com|     1960|
+|Danny.Jackson@tes...|     1959|
+|Danny.Clayton@tes...|     1958|
+| Lyn.Howard@test.com|     1957|
+|  Lyn.Doshi@test.com|     1956|
+|Jerry.Hansen@test...|     1955|
+|Lyn.Jackson@test.com|     1954|
+|Jacob.Jones@test.com|     1952|
+|Jason.Harris@test...|     1951|
+| Spencer.Wu@test.com|     1950|
+|Frank.Harris@test...|     1949|
+|Jacob.Spencer@tes...|     1948|
+|Craig.Jefferson@t...|     1947|
+|Gail.Anandh@test.com|     1946|
+|Jason.Doshi@test.com|     1945|
+| Sean.Jones@test.com|     1944|
++--------------------+---------+
+only showing top 20 rows
+
